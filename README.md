@@ -9,4 +9,5 @@ idea打开项目 编译通过之后
 这个项目的合并逻辑写的比较不好，没有优化。
 
 大家可以看看我的另一个用Python写的在控制台里玩2048的项目
+
 https://github.com/brok1n/game2048-python-console
